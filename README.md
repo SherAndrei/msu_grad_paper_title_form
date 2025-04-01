@@ -12,8 +12,6 @@
    1. Конфигурация отступов в документе, соответствующая [ГОСТ 7.32-2017](https:///protect.gost.ru/document.aspx?control=7&id=218998).
    2. Пример включения файла `title.tex` в основной документ.
 
-Посмотреть результат можно [здесь](https://github.com/SherAndrei/msu_grad_paper_title_form/releases).
-
 Собрать пример самостоятельно можно с помощью [latexmk](https://mgeier.github.io/latexmk.html)
 ```
 latexmk -pdf main.tex
@@ -22,3 +20,5 @@ latexmk -pdf main.tex
 ```
 make
 ```
+
+![preview](main.png)
